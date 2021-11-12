@@ -10,8 +10,8 @@ Proyecto consiste en consumir una API REST **[product-service](https://github.co
 
 ## Contenido del Proyecto
 
--   [index.html](https://gitlab.com/stiwardjherikofcr/pizzeria_json/-/blob/master/index.html): Archivo principal de invocación a la lectura de JSON.
--   [js/main.js](https://gitlab.com/stiwardjherikofcr/pizzeria_json/-/blob/master/js/main.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de resultados.
+-   [index.html](https://github.com/stiwardjherikofcr/product-service-fetch/blob/master/index.html): Archivo principal de invocación a la lectura de JSON.
+-   [js/main.js](https://github.com/stiwardjherikofcr/product-service-fetch/blob/master/assets/js/main.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de resultados.
 
 ## Tecnologías
 
